@@ -13,6 +13,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
+    "random": "^4.1.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
